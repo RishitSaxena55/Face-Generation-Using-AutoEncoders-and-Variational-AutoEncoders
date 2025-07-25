@@ -24,3 +24,10 @@ Implemented Face Generation Using AE and VAE on LFW Dataset
 
 ## Variational AutoEncoder Model
 ![model](results/model/model.png)
+
+## Experiment
+You can also add your images and see your generated images by this VAE.
+
+### Open for any collaborations in Machine Learning.
+
+### You can also contribute to this to make it more insightful and achieve better results.
