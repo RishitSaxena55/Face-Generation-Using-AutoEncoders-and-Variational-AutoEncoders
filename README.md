@@ -21,3 +21,6 @@ Implemented Face Generation Using AE and VAE on LFW Dataset
 ## Sampling from Latent Space and Generating through Decoder
 ![sampling-images](results/sampling/sampling-1.png)
 ![sampling-images](results/sampling/sampling.png)
+
+## Variational AutoEncoder Model
+![model](results/model/model.png)
